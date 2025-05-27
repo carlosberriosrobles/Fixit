@@ -4,7 +4,7 @@
     }
 
     header {
-      background: url('img/Imagenprinicipal.jpg') center/cover no-repeat;
+      background: url('Imagenprinicipal.jpg') center/cover no-repeat;
       height: 300px;
       color: white;
       display: flex;
